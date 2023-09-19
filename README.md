@@ -15,3 +15,19 @@ I'm open to opportunities that may require relocation, and I'm currently availab
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlaurafuentes&show_icons=true&locale=en&layout=compact" alt="dlaurafuentes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlaurafuentes&" alt="dlaurafuentes" /></p>
+
+### Articles on Medium:
+Feel free to explore these articles to delve into a range of topics from web development to operational management and career growth.
+
+1. **Micro Frontends: The Modularity Your Web Application Needs**  
+   Discover how micro frontends can enhance the modularity and maintainability of your web applications.  
+   [Read Article](https://medium.com/@dlaurafuentes/micro-frontends-the-modularity-your-web-application-needs-c6ec11cb61ae)
+
+2. **The 5 Most Relevant Laws of Power in Operational Management**  
+   Dive into the essential laws of power that play a significant role in operational management and leadership.  
+   [Read Article](https://medium.com/@laurafuentes.developer/the-5-most-relevant-laws-of-power-in-operational-management-a417c96f4eb6)
+
+3. **From Developer to Chief Operating Officer: My Journey to the Top**  
+   Gain insights into my personal journey from a developer to a Chief Operating Officer and the path to reaching the pinnacle of success.  
+   [Read Article](https://medium.com/@laurafuentes.developer/de-desarrollador-a-director-de-operaciones-mi-viaje-hacia-la-cima-9a3d1785f5eb)
+
